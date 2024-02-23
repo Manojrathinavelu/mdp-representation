@@ -60,7 +60,8 @@ T
 ``````
 
 ## OUTPUT:
-![ss1](op.png)
+![Screenshot 2024-02-23 102140](https://github.com/Manojrathinavelu/mdp-representation/assets/119560395/d8fb0667-943e-4541-968c-7600d6e00360)
+
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
 
